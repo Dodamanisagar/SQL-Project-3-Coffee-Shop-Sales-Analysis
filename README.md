@@ -1,6 +1,7 @@
 # SQL-Project-3-Coffee-Shop-Sales-Analysis
 ## FUNCTIONALITIES YOU LEARN
-• STR TO DATE
+• STR_TO_DATE
+
 • ROUND
 • SUM
 • COUNT
@@ -11,7 +12,8 @@
 • DAYOFWEEK
 • SELECT
 • ALIAS
-• MAXI MIN
+• MAX 
+• MIN
 • HOUR
 • ALTER TABLE
 • UPDATE TABLE
