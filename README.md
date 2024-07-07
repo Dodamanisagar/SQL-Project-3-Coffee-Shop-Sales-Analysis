@@ -1,30 +1,29 @@
 # SQL-Project-3-Coffee-Shop-Sales-Analysis
-## FUNCTIONALITIES I Learned:-
-* STR_TO_DATE
-* ROUND
-* SUM
-* COUNT
-* AVG
-* LAG
-* MONTH
-* DAY
-* DAYOFWEEK
-* SELECT
-* ALIAS
-* MAX 
-* MIN
-* HOUR
-* ALTER TABLE
-* UPDATE TABLE
-* CHANGE COLUMN
-* WHERE
-* GROUP BY
-* CASE
-* ORDER BY
-* LIMIT
-* WINDOW FUNCTIONS
-* JOINS
-* SUBQUERIES
+## FUNCTIONALITIES I Learned along with Links:-
+* STR_TO_DATE:- https://dev.mysql.com/doc/refman/8.0/en/date-and-time-functions.html#function_str-to-date
+* ROUND:- https://dev.mysql.com/doc/refman/8.0/en/mathematical-functions.html#function_round
+* SUM:- https://www.mysqltutorial.org/mysql-aggregate-functions/mysql-sum/
+* COUNT:- https://www.mysqltutorial.org/mysql-aggregate-functions/mysql-count/
+* AVG:-  https://www.mysqltutorial.org/mysql-aggregate-functions/mysql-avg/
+* MONTH:- https://dev.mysql.com/doc/refman/8.0/en/date-and-time-functions.html#function_month
+* DAY:- https://dev.mysql.com/doc/refman/8.0/en/date-and-time-functions.html#function_day
+* DAYOFWEEK:- https://dev.mysql.com/doc/refman/8.0/en/date-and-time-functions.html#function_dayofweek
+* SELECT:- https://dev.mysql.com/doc/refman/8.0/en/select.html
+* ALIAS:- https://dev.mysql.com/doc/refman/8.0/en/problems-with-alias.html
+* MAX:-  https://www.mysqltutorial.org/mysql-aggregate-functions/mysql-max-function/
+* MIN:-  https://www.mysqltutorial.org/mysql-aggregate-functions/mysql-min/
+* HOUR:- https://dev.mysql.com/doc/refman/8.0/en/date-and-time-functions.html#function_hour
+* ALTER TABLE:- https://dev.mysql.com/doc/refman/8.0/en/alter-table.html
+* UPDATE TABLE:- https://dev.mysql.com/doc/refman/8.0/en/update.html
+* CHANGE COLUMN:- https://dev.mysql.com/doc/refman/8.0/en/alter-table.html#alter-table-change-column
+* WHERE:- https://dev.mysql.com/doc/refman/8.0/en/where-optimization.html
+* GROUP BY:- https://dev.mysql.com/doc/refman/8.0/en/group-by-modifiers.html
+* CASE:- https://dev.mysql.com/doc/refman/8.0/en/case.html
+* ORDER BY:- https://dev.mysql.com/doc/refman/8.0/en/sorting-rows.html
+* LIMIT:- https://dev.mysql.com/doc/refman/8.0/en/limit-optimization.html
+* WINDOW FUNCTIONS:- https://dev.mysql.com/doc/refman/8.0/en/window-functions.html
+* JOINS:- https://dev.mysql.com/doc/refman/8.0/en/join.html
+* SUBQUERIES:- https://dev.mysql.com/doc/refman/8.0/en/subqueries.html
 
 
 ## PROBLEM STATEMENT
