@@ -1,5 +1,5 @@
 # SQL-Project-3-Coffee-Shop-Sales-Analysis
-## FUNCTIONALITIES YOU LEARN
+## FUNCTIONALITIES I Learned:-
 * STR_TO_DATE
 * ROUND
 * SUM
@@ -26,6 +26,7 @@
 * JOINS
 * SUBQUERIES
 
+
 ## PROBLEM STATEMENT
 1. What are the data types of all columns in the coffee_shop_sales table?
 2. How can we change the column name 'ï»¿transaction_id' to 'transaction_id'?
@@ -42,3 +43,8 @@
 13. How can we determine the top 10 products by sales for a specific product category in a specific month?
 14. How can we analyze sales by days and hours for a specific month?
 15. How can we analyze sales by weekdays and hours for a specific month?
+
+    
+## Database and Tools
+1. Excel
+2. MySQL Workbench
